@@ -1,0 +1,502 @@
+{
+  "dark elf na":[{
+      "partType":"4",
+      "malePart":"b_n_dark elf_m_groin",
+      "femalePart":"b_n_dark elf_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_dark elf_m_upper leg",
+      "femalePart":"b_n_dark elf_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_dark elf_m_upper leg",
+      "femalePart":"b_n_dark elf_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_dark elf_m_knee",
+      "femalePart":"b_n_dark elf_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_dark elf_m_knee",
+      "femalePart":"b_n_dark elf_f_knee"
+    }],
+  "khajiit na":[{
+      "partType":"4",
+      "malePart":"b_n_khajiit_m_groin",
+      "femalePart":"b_n_khajiit_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_khajiit_m_upper leg",
+      "femalePart":"b_n_khajiit_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_khajiit_m_upper leg",
+      "femalePart":"b_n_khajiit_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_khajiit_m_knee",
+      "femalePart":"b_n_khajiit_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_khajiit_m_knee",
+      "femalePart":"b_n_khajiit_f_knee"
+    }],
+  "dark elf":[{
+      "partType":"4",
+      "malePart":"b_n_dark elf_m_groin",
+      "femalePart":"b_n_dark elf_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_dark elf_m_upper leg",
+      "femalePart":"b_n_dark elf_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_dark elf_m_upper leg",
+      "femalePart":"b_n_dark elf_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_dark elf_m_knee",
+      "femalePart":"b_n_dark elf_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_dark elf_m_knee",
+      "femalePart":"b_n_dark elf_f_knee"
+    },{
+      "partType":"17",
+      "malePart":"b_n_dark elf_m_ankle",
+      "femalePart":"b_n_dark elf_f_ankle"
+    },{
+      "partType":"18",
+      "malePart":"b_n_dark elf_m_ankle",
+      "femalePart":"b_n_dark elf_f_ankle"
+    }],
+  "nord":[{
+      "partType":"4",
+      "malePart":"b_n_nord_m_groin",
+      "femalePart":"b_n_nord_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_nord_m_upper leg",
+      "femalePart":"b_n_nord_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_nord_m_upper leg",
+      "femalePart":"b_n_nord_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_nord_m_knee",
+      "femalePart":"b_n_nord_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_nord_m_knee",
+      "femalePart":"b_n_nord_f_knee"
+    },{
+      "partType":"17",
+      "malePart":"b_n_nord_m_ankle",
+      "femalePart":"b_n_nord_f_ankle"
+    },{
+      "partType":"18",
+      "malePart":"b_n_nord_m_ankle",
+      "femalePart":"b_n_nord_f_ankle"
+    }],
+  "wood elf":[{
+      "partType":"4",
+      "malePart":"b_n_wood elf_m_groin",
+      "femalePart":"b_n_wood elf_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_wood elf_m_upper leg",
+      "femalePart":"b_n_wood elf_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_wood elf_m_upper leg",
+      "femalePart":"b_n_wood elf_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_wood elf_m_knee",
+      "femalePart":"b_n_wood elf_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_wood elf_m_knee",
+      "femalePart":"b_n_wood elf_f_knee"
+    },{
+      "partType":"17",
+      "malePart":"b_n_wood elf_m_ankle",
+      "femalePart":"b_n_wood elf_f_ankle"
+    },{
+      "partType":"18",
+      "malePart":"b_n_wood elf_m_ankle",
+      "femalePart":"b_n_wood elf_f_ankle"
+    }],
+  "imperial":[{
+      "partType":"4",
+      "malePart":"b_n_imperial_m_groin",
+      "femalePart":"b_n_imperial_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_imperial_m_upper leg",
+      "femalePart":"b_n_imperial_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_imperial_m_upper leg",
+      "femalePart":"b_n_imperial_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_imperial_m_knee",
+      "femalePart":"b_n_imperial_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_imperial_m_knee",
+      "femalePart":"b_n_imperial_f_knee"
+    },{
+      "partType":"17",
+      "malePart":"b_n_imperial_m_ankle",
+      "femalePart":"b_n_imperial_f_ankle"
+    },{
+      "partType":"18",
+      "malePart":"b_n_imperial_m_ankle",
+      "femalePart":"b_n_imperial_f_ankle"
+    }],
+  "orc na":[{
+      "partType":"4",
+      "malePart":"b_n_orc_m_groin",
+      "femalePart":"b_n_orc_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_orc_m_upper leg",
+      "femalePart":"b_n_orc_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_orc_m_upper leg",
+      "femalePart":"b_n_orc_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_orc_m_knee",
+      "femalePart":"b_n_orc_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_orc_m_knee",
+      "femalePart":"b_n_orc_f_knee"
+    }],
+  "breton":[{
+      "partType":"4",
+      "malePart":"b_n_breton_m_groin",
+      "femalePart":"b_n_breton_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_breton_m_upper leg",
+      "femalePart":"b_n_breton_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_breton_m_upper leg",
+      "femalePart":"b_n_breton_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_breton_m_knee",
+      "femalePart":"b_n_breton_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_breton_m_knee",
+      "femalePart":"b_n_breton_f_knee"
+    },{
+      "partType":"17",
+      "malePart":"b_n_breton_m_ankle",
+      "femalePart":"b_n_breton_f_ankle"
+    },{
+      "partType":"18",
+      "malePart":"b_n_breton_m_ankle",
+      "femalePart":"b_n_breton_f_ankle"
+    }],
+  "orc":[{
+      "partType":"4",
+      "malePart":"b_n_orc_m_groin",
+      "femalePart":"b_n_orc_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_orc_m_upper leg",
+      "femalePart":"b_n_orc_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_orc_m_upper leg",
+      "femalePart":"b_n_orc_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_orc_m_knee",
+      "femalePart":"b_n_orc_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_orc_m_knee",
+      "femalePart":"b_n_orc_f_knee"
+    },{
+      "partType":"17",
+      "malePart":"b_n_orc_m_ankle",
+      "femalePart":"b_n_orc_f_ankle"
+    },{
+      "partType":"18",
+      "malePart":"b_n_orc_m_ankle",
+      "femalePart":"b_n_orc_f_ankle"
+    }],
+  "breton na":[{
+      "partType":"4",
+      "malePart":"b_n_breton_m_groin",
+      "femalePart":"b_n_breton_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_breton_m_upper leg",
+      "femalePart":"b_n_breton_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_breton_m_upper leg",
+      "femalePart":"b_n_breton_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_breton_m_knee",
+      "femalePart":"b_n_breton_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_breton_m_knee",
+      "femalePart":"b_n_breton_f_knee"
+    }],
+  "redguard na":[{
+      "partType":"4",
+      "malePart":"b_n_redguard_m_groin",
+      "femalePart":"b_n_redguard_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_redguard_m_upper leg",
+      "femalePart":"b_n_redguard_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_redguard_m_upper leg",
+      "femalePart":"b_n_redguard_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_redguard_m_knee",
+      "femalePart":"b_n_redguard_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_redguard_m_knee",
+      "femalePart":"b_n_redguard_f_knee"
+    }],
+  "imperial na":[{
+      "partType":"4",
+      "malePart":"b_n_imperial_m_groin",
+      "femalePart":"b_n_imperial_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_imperial_m_upper leg",
+      "femalePart":"b_n_imperial_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_imperial_m_upper leg",
+      "femalePart":"b_n_imperial_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_imperial_m_knee",
+      "femalePart":"b_n_imperial_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_imperial_m_knee",
+      "femalePart":"b_n_imperial_f_knee"
+    }],
+  "argonian na":[{
+      "partType":"4",
+      "malePart":"b_n_argonian_m_groin",
+      "femalePart":"b_n_argonian_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_argonian_m_upper leg",
+      "femalePart":"b_n_argonian_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_argonian_m_upper leg",
+      "femalePart":"b_n_argonian_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_argonian_m_knee",
+      "femalePart":"b_n_argonian_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_argonian_m_knee",
+      "femalePart":"b_n_argonian_f_knee"
+    }],
+  "nord na":[{
+      "partType":"4",
+      "malePart":"b_n_nord_m_groin",
+      "femalePart":"b_n_nord_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_nord_m_upper leg",
+      "femalePart":"b_n_nord_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_nord_m_upper leg",
+      "femalePart":"b_n_nord_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_nord_m_knee",
+      "femalePart":"b_n_nord_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_nord_m_knee",
+      "femalePart":"b_n_nord_f_knee"
+    }],
+  "argonian":[{
+      "partType":"4",
+      "malePart":"b_n_argonian_m_groin",
+      "femalePart":"b_n_argonian_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_argonian_m_upper leg",
+      "femalePart":"b_n_argonian_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_argonian_m_upper leg",
+      "femalePart":"b_n_argonian_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_argonian_m_knee",
+      "femalePart":"b_n_argonian_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_argonian_m_knee",
+      "femalePart":"b_n_argonian_f_knee"
+    },{
+      "partType":"17",
+      "malePart":"b_n_argonian_m_ankle",
+      "femalePart":"b_n_argonian_f_ankle"
+    },{
+      "partType":"18",
+      "malePart":"b_n_argonian_m_ankle",
+      "femalePart":"b_n_argonian_f_ankle"
+    }],
+  "high elf na":[{
+      "partType":"4",
+      "malePart":"b_n_high elf_m_groin",
+      "femalePart":"b_n_high elf_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_high elf_m_upper leg",
+      "femalePart":"b_n_high elf_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_high elf_m_upper leg",
+      "femalePart":"b_n_high elf_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_high elf_m_knee",
+      "femalePart":"b_n_high elf_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_high elf_m_knee",
+      "femalePart":"b_n_high elf_f_knee"
+    }],
+  "khajiit":[{
+      "partType":"4",
+      "malePart":"b_n_khajiit_m_groin",
+      "femalePart":"b_n_khajiit_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_khajiit_m_upper leg",
+      "femalePart":"b_n_khajiit_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_khajiit_m_upper leg",
+      "femalePart":"b_n_khajiit_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_khajiit_m_knee",
+      "femalePart":"b_n_khajiit_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_khajiit_m_knee",
+      "femalePart":"b_n_khajiit_f_knee"
+    },{
+      "partType":"17",
+      "malePart":"b_n_khajiit_m_ankle",
+      "femalePart":"b_n_khajiit_f_ankle"
+    },{
+      "partType":"18",
+      "malePart":"b_n_khajiit_m_ankle",
+      "femalePart":"b_n_khajiit_f_ankle"
+    }],
+  "redguard":[{
+      "partType":"4",
+      "malePart":"b_n_redguard_m_groin",
+      "femalePart":"b_n_redguard_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_redguard_m_upper leg",
+      "femalePart":"b_n_redguard_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_redguard_m_upper leg",
+      "femalePart":"b_n_redguard_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_redguard_m_knee",
+      "femalePart":"b_n_redguard_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_redguard_m_knee",
+      "femalePart":"b_n_redguard_f_knee"
+    },{
+      "partType":"17",
+      "malePart":"b_n_redguard_m_ankle",
+      "femalePart":"b_n_redguard_f_ankle"
+    },{
+      "partType":"18",
+      "malePart":"b_n_redguard_m_ankle",
+      "femalePart":"b_n_redguard_f_ankle"
+    }],
+  "wood elf na":[{
+      "partType":"4",
+      "malePart":"b_n_wood elf_m_groin",
+      "femalePart":"b_n_wood elf_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_wood elf_m_upper leg",
+      "femalePart":"b_n_wood elf_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_wood elf_m_upper leg",
+      "femalePart":"b_n_wood elf_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_wood elf_m_knee",
+      "femalePart":"b_n_wood elf_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_wood elf_m_knee",
+      "femalePart":"b_n_wood elf_f_knee"
+    }],
+  "high elf":[{
+      "partType":"4",
+      "malePart":"b_n_high elf_m_groin",
+      "femalePart":"b_n_high elf_f_groin"
+    },{
+      "partType":"21",
+      "malePart":"b_n_high elf_m_upper leg",
+      "femalePart":"b_n_high elf_f_upper leg"
+    },{
+      "partType":"22",
+      "malePart":"b_n_high elf_m_upper leg",
+      "femalePart":"b_n_high elf_f_upper leg"
+    },{
+      "partType":"19",
+      "malePart":"b_n_high elf_m_knee",
+      "femalePart":"b_n_high elf_f_knee"
+    },{
+      "partType":"20",
+      "malePart":"b_n_high elf_m_knee",
+      "femalePart":"b_n_high elf_f_knee"
+    },{
+      "partType":"17",
+      "malePart":"b_n_high elf_m_ankle",
+      "femalePart":"b_n_high elf_f_ankle"
+    },{
+      "partType":"18",
+      "malePart":"b_n_high elf_m_ankle",
+      "femalePart":"b_n_high elf_f_ankle"
+    }]
+}
