@@ -189,7 +189,7 @@ local function inventory_packet_handler(pid, refId, action, equip_the_item)
     --     inventoryHelper.removeExactItem(Players[pid].data.inventory, refId, 1)
     -- end
 
-    tableHelper.print(Players[pid].data.inventory[item_index])
+    --tableHelper.print(Players[pid].data.inventory[item_index])
 
     --TODO  make a new function for equiping and call it down below..
     if equip_the_item then
