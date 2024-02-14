@@ -192,6 +192,7 @@ local function inventory_packet_handler(pid, refId, action, equip_the_item)
     --tableHelper.print(Players[pid].data.inventory[item_index])
 
     --TODO  make a new function for equiping and call it down below..
+    -- can't remember if this part works.....use at own risk lol
     if equip_the_item then
         if not tes3mp.HasItemEquipped(pid, refId) then
             tes3mp.EquipItem(pid, 10, refId, 1, playerPacket.inventory[1].charge or -1, playerPacket.inventory[1].enchantmentCharge or -1)
